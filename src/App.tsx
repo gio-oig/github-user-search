@@ -7,9 +7,9 @@ import UserDataCard from "./components/userDataCard/userDataCard";
 import fetchGithubUser from "./lib/api";
 
 import { IUser } from "./components/types/models";
+import useMode from "./hooks/useMode";
 
 import "./App.css";
-import useMode from "./hooks/useMode";
 
 function App() {
   const [notFound, setNotFound] = useState(false);
