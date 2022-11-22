@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github-user-search/static/css/main.04af45e4.css",
+    "main.js": "/github-user-search/static/js/main.72d2a238.js",
+    "static/js/787.b7d4d1ca.chunk.js": "/github-user-search/static/js/787.b7d4d1ca.chunk.js",
+    "static/media/office-building.svg": "/github-user-search/static/media/office-building.e58b61ee4075ed7eb0ea0961bd57c7bf.svg",
+    "static/media/sun.svg": "/github-user-search/static/media/sun.ca9bfdf78c4c0e78ec303acc0cb14e28.svg",
+    "static/media/url.svg": "/github-user-search/static/media/url.b3d9f97a7753bce4cfdc1413e99d6d4f.svg",
+    "static/media/twitter.svg": "/github-user-search/static/media/twitter.be4b3aaaff44a163e55e45894ff81231.svg",
+    "static/media/search.svg": "/github-user-search/static/media/search.d6a0d78390002a4e65008b84cf349838.svg",
+    "static/media/moon.svg": "/github-user-search/static/media/moon.89c8b9fbdb3505e26b17ab07c4a7bce4.svg",
+    "static/media/location.svg": "/github-user-search/static/media/location.4a94a6b0a7081ff45a27b323a251e378.svg",
+    "index.html": "/github-user-search/index.html",
+    "main.04af45e4.css.map": "/github-user-search/static/css/main.04af45e4.css.map",
+    "main.72d2a238.js.map": "/github-user-search/static/js/main.72d2a238.js.map",
+    "787.b7d4d1ca.chunk.js.map": "/github-user-search/static/js/787.b7d4d1ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04af45e4.css",
+    "static/js/main.72d2a238.js"
+  ]
+}
