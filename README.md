@@ -25,8 +25,8 @@ Your users should be able to:
 
 ### Screenshot
 
-![](src/assets/github-search-light.png)
-![](src/assets/github-search-dark.png)
+![](src/assets/images/github-search-light.png)
+![](src/assets/images/github-search-dark.png)
 
 ### Links
 
